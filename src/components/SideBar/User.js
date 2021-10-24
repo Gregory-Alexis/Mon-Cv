@@ -20,7 +20,7 @@ const User = () => {
 			<div className="pt-5 text-sm">
 				<p className="flex mb-2">
 					<img src={house} alt="mon adresse" className="pr-3" />
-					21 rue Louise Aglaé Cretté 94400 Vitry sur Seine
+					Vitry sur Seine 94400
 				</p>
 
 				<p className="flex mb-2">
