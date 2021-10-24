@@ -14,7 +14,7 @@ const Experiences = ({ data }) => {
 							<p className="font-semibold">{el.date}</p>
 						</div>
 						<div className="block">
-							<h3 className="mt-3 font-bold">{el.entreprise}</h3>
+							<h3 className="mt-5 font-bold">{el.entreprise}</h3>
 							<p>{el.poste}</p>
 							<p className="font-bold text-darkBlue">{el.location}</p>
 							<ul>

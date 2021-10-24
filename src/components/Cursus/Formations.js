@@ -13,7 +13,7 @@ const Formations = ({ data }) => {
 						<div className="mt-5">
 							<p className="font-semibold">{el.date}</p>
 						</div>
-						<div className="mt-3">
+						<div className="mt-5">
 							<h3 className="font-semibold">{el.entreprise}</h3>
 							<p>{el.title}</p>
 							<p className="font-bold text-darkBlue">{el.location}</p>

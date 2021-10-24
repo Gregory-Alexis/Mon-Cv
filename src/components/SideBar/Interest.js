@@ -5,11 +5,11 @@ const Interest = () => {
 				Centre d'intérêts
 			</h2>
 			<ul>
-				<li className="mt-2">Informatique</li>
-				<li className="mt-2">Musculation</li>
-				<li className="mt-2">Développement personnel</li>
-				<li className="mt-2">Multimédia</li>
-				<li className="mt-2">Musique</li>
+				<li className="mt-2 uppercase">Informatique</li>
+				<li className="mt-2 uppercase">Musculation</li>
+				<li className="mt-2 uppercase">Développement personnel</li>
+				<li className="mt-2 uppercase">Multimédia</li>
+				<li className="mt-2 uppercase">Musique</li>
 			</ul>
 		</div>
 	)

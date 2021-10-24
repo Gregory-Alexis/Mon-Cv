@@ -17,7 +17,7 @@ const dataFormations = [
 		id: 3,
 		title: "Bep électronique",
 		entreprise: "Lycée Gustave Férrié",
-		date: "2005",
+		date: "2003 - 2005",
 		location: "Paris",
 	},
 ]

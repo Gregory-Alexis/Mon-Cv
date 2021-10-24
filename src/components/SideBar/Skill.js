@@ -1,6 +1,6 @@
 const Skill = ({ title, rating }) => {
 	return (
-		<div className="flex justify-between items-center pt-1">
+		<div className="flex justify-between items-center pt-2">
 			<p>{title}</p>
 			<div>
 				<div className={`circle ${rating > 0 && "circle-full"}`}></div>
