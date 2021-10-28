@@ -43,7 +43,7 @@ const User = () => {
 				</p>
 				<p className="flex mb-2">
 					<img src={calendar} alt="ma date de naissance" className="pr-3" />
-					Date de naissance: 26 mars 1987
+					26 mars 1987
 				</p>
 			</div>
 		</div>
