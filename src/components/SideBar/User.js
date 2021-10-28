@@ -31,7 +31,7 @@ const User = () => {
 						target="_blank"
 						rel="noreferrer"
 					>
-						gregalexis.dev@gmail.com
+						gregoryalexis.dev@gmail.com
 					</a>
 				</p>
 				<p className="flex mb-2">
